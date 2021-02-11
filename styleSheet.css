@@ -1,0 +1,16 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: #262427; 
+}
+
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  background-color: #262427; 
+}
+
